@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T04:07:00.328Z'
+datePublished: '2016-08-19T04:07:47.043Z'
 sourcePath: _posts/2016-08-19-jfegojefgljafdlgkjadflkgjadflkgjadlfkgj.md
 author: []
 via: {}
@@ -14,7 +14,7 @@ metadata:
   '@type': Article
   publisher: {}
   description: jfegojefgljafdlgkjadflkgjadflkgjad;lfkgj
-dateModified: '2016-08-19T04:06:49.743Z'
+dateModified: '2016-08-19T04:07:46.888Z'
 title: ''
 id: e7ad7b91-2f39-47d6-9dbd-34e4690cc6b5
 publisher: {}
