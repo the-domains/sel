@@ -1,14 +1,14 @@
 layout_spectrum: 0.5298146496061236
-typography_spectrum: 0.4813973510172218
+typography_spectrum: 0.8587350253947079
 color:
-  brandStrength: 0.5042789815925062
-  lightness: 0.16491285362280905
-  saturation: 0.3169910421129316
-  rhythmicContrast: 0.3044733714777976
+  brandStrength: 0.04741430236026645
+  lightness: 0.021575906546786427
+  saturation: 0.7519204800482839
+  rhythmicContrast: 0.8954217797145247
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#04BFBF'
+    - '#CAFCD8'
+    - '#F7E967'
+    - '#A9CF54'
+    - '#588F27'
 name: ösel
